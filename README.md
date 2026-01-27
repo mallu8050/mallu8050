@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 Currently working on: Student Attendance Management  <br>- 🌱 Learning: AI through website development  <br>- 💬 Ask me about: Web development, AI integration  <br>- 📫 How to reach me: bcamallu18@gmail.com</p>
+<p align="left" width="50%">- 🔭 Currently working on: Student Attendance Management  <br>- 🌱 Learning: AI through website development  <br>- 💬 Ask me about: Web development, AI integration  <br>- 📫 How to reach me: bcamallu18@gmail.com</p>
 
 ###
 
@@ -68,17 +68,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mallikarjun-athani/mallikarjun-athani/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mallikarjun-athani/mallikarjun-athani/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mallikarjun-athani/mallikarjun-athani/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mallikarjun-athani/mallikarjun-athani/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
