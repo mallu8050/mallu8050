@@ -1,240 +1,146 @@
+## 🚀 Featured Projects
+
 <div align="center">
+<table width="100%">
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mallikarjun%20Athani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20|%20Full%20Stack%20Web%20Developer%20|%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallikarjun-athani&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%7C%20Internship%20%7C%20Freelance-22C55E?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Mallikarjun+Athani;🐍+Python+Developer;⚛️+React+%7C+FastAPI+%7C+MySQL+%7C+AWS;💻+Full+Stack+Web+Developer;🚀+Building+Production-Grade+Applications;🌱+Always+Learning+New+Technologies;🎯+Open+to+Full-Time+Roles+%26+Internships" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-```typescript
-const mallikarjun = {
-  name        : "Mallikarjun Athani",
-  role        : "Python Developer",
-  title       : "Full Stack Web Developer",
-  location    : "Athani, Karnataka, India 🇮🇳",
+<td width="50%" align="center">
 
-  about: [
-    "Problem Solver",
-    "Eager to Learn",
-    "Full Stack Web Developer",
-    "Passionate about Python & Web Technologies"
-  ],
+# 🎓 Student Attendance Management System
 
-  skills: {
-    frontend: [
-      "React",
-      "HTML5",
-      "CSS3",
-      "JavaScript"
-    ],
+*Web-based attendance management system for students*
 
-    backend: [
-      "Python",
-      "FastAPI",
-      "PHP"
-    ],
+<br>
 
-    database: [
-      "MySQL"
-    ],
+<a href="https://student-attendance-management.infinityfreeapp.com/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-22C55E?style=for-the-badge"/>
+</a>
 
-    cloud: [
-      "AWS",
-      "Vercel"
-    ],
+<a href="https://github.com/YOUR_USERNAME/student-attendance-management">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
 
-    operatingSystem: [
-      "Linux"
-    ],
+<br><br>
 
-    networking: [
-      "Computer Networks"
-    ],
+### Tech Stack
 
-    programming: [
-      "Python",
-      "JavaScript",
-      "PHP",
-      "C"
-    ],
+<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,javascript"/>
 
-    tools: [
-      "Git",
-      "GitHub",
-      "Canva",
-      "MS Word",
-      "Microsoft Excel"
-    ],
+</td>
 
-    concepts: [
-      "Data Structures & Algorithms",
-      "Problem Solving"
-    ]
-  },
+<td width="50%" align="center">
 
-  projects: [
-    "Student Attendance Management System",
-    "Portfolio Website",
-    "College Website",
-    "AgriMitra (Hackathon Project)"
-  ],
+# 🌾 AgriMitra
 
-  currentlyBuilding : "Production-grade full stack applications",
+*Hackathon Project helping farmers connect with buyers*
 
-  openTo : [
-    "Full-Time Roles",
-    "Internships",
-    "Freelance",
-    "Open Source Collaborations"
-  ],
+<br>
 
-  motto : "Code. Learn. Build. Repeat. 🔁",
-};
-```
+<a href="http://agri-mitra-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-22C55E?style=for-the-badge"/>
+</a>
 
----
+<br><br>
 
-# 🚀 Tech Stack
+### Tech Stack
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,fastapi,mysql,vercel"/>
 
-### Languages
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,php,c" />
+</tr>
 
-### Frontend
+<tr>
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<td width="50%" align="center">
 
-### Backend
+# 👨‍💻 Portfolio
 
-<img src="https://skillicons.dev/icons?i=fastapi" />
+*Personal Portfolio Website*
 
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,vercel" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 Student Attendance Management System
-
-📌 Student Attendance Web Application
-
-🔗 Live Demo
-
-https://student-attendance-management.infinityfreeapp.com/
-
----
-
-## 👨‍💻 Personal Portfolio
-
-🔗 Live Demo
-
-https://mallu-portfolio.vercel.app/
-
----
-
-## 🏫 College Website
-
-🔗 Live Demo
-
-https://sves-college-website.vercel.app/
-
----
-
-## 🌾 AgriMitra
-
-Hackathon Group Project
-
-🔗 Live Demo
-
-http://agri-mitra-alpha.vercel.app/
-
----
-
-# 📊 GitHub Stats
-
-> Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💼 Core Skills
-
-✅ Python
-
-✅ FastAPI
-
-✅ React
-
-✅ HTML5
-
-✅ CSS3
-
-✅ JavaScript
-
-✅ PHP
-
-✅ MySQL
-
-✅ AWS
-
-✅ Linux
-
-✅ Git & GitHub
-
-✅ Data Structures & Algorithms
-
-✅ Problem Solving
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="https://mallu-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-22C55E?style=for-the-badge"/>
 </a>
+
+<br><br>
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,vercel"/>
+
+</td>
+
+<td width="50%" align="center">
+
+# 🏫 College Website
+
+*Modern Responsive College Website*
+
+<br>
+
+<a href="https://sves-college-website.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-22C55E?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
+
+</td>
+
+</tr>
+
+</table>
+</div>
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) |
+
+</div>
+## 🎯 Core Competencies
+
+<div align="center">
+
+| 💡 Skill Area | 📈 Proficiency |
+| :--- | :---: |
+| Data Structures & Algorithms | ⭐⭐⭐⭐☆ |
+| Problem Solving | ⭐⭐⭐⭐⭐ |
+| Python Development | ⭐⭐⭐⭐⭐ |
+| Full Stack Web Development | ⭐⭐⭐⭐☆ |
+| FastAPI Development | ⭐⭐⭐⭐☆ |
+| React Development | ⭐⭐⭐⭐☆ |
+| Database Management | ⭐⭐⭐⭐☆ |
+| AWS & Deployment | ⭐⭐⭐☆☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+
+</div>
+## 🤝 Let's Connect
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mallikarjun-athani/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mallu-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/bcamallu18">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/mallu_athani018/">
@@ -245,33 +151,4 @@ http://agri-mitra-alpha.vercel.app/
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/bcamallu18">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
 </p>
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building Production-Grade Full Stack Applications
-- 🐍 Mastering Python & FastAPI
-- ⚛️ Developing Modern React Applications
-- ☁️ Learning AWS Cloud
-- 📚 Improving DSA & Problem Solving
-- 🤝 Looking for Full-Time, Internship & Freelance Opportunities
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### 💙 If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-**Code. Learn. Build. Repeat. 🔁**
-
-</div>
