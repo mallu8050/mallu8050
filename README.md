@@ -62,41 +62,29 @@ const mallikarjun = {
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="25%" align="center" valign="top">
-        <h3>🌾 Agri-Mitra</h3>
-        <p><i>Farmers meet markets, no middlemen</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&center=true&vCenter=true&width=280&height=45&lines=Farmer-to-Consumer+Market;Mandi+Price+Integration;Real-time+Notifications&color=22C55E&background=00000000" />
+      <td width="50%" align="center" valign="top">
+        <h2>✨ Portfolio</h2>
+        <p><i>Responsive personal portfolio, built mobile-first</i></p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&center=true&vCenter=true&width=350&height=30&lines=Mobile+Responsive;present+a+professional+portfolio" />
         <br><br>
-        <a href="http://agri-mitra-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://mallu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/mallikarjun-athani/Portfolio.git"><img src="https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase&theme=dark" width="140" />
+        <b>Tech Stack</b><br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind&theme=dark" />
       </td>
-      <td width="25%" align="center" valign="top">
-        <h3>🌐 Portfolio Website</h3>
-        <p><i>Responsive personal portfolio</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&center=true&vCenter=true&width=280&height=45&lines=Mobile-First+Design;Cross-Browser+Compatible;Vercel+%2B+CI%2FCD&color=6366F1&background=00000000" />
+      <td width="50%" align="center" valign="top">
+        <h2>🌾 AgriMitra</h2>
+        <p><i>Hackathon — farmers meet markets, no middlemen</i></p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&center=true&vCenter=true&width=350&height=30&lines=Farmer-to-Consumer+Market;Live+Crop+Pricing;AI+Crop+Advisory;Multilingual+Support&color=22C55E&background=00000000" />
         <br><br>
-        <a href="https://mallu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://agri-mitra-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/mallikarjun-athani/Agri-Mitra.git"><img src="https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,vercel&theme=dark" width="140" />
-      </td>
-      <td width="25%" align="center" valign="top">
-        <h3>🎓 College Website</h3>
-        <p><i>Academic programs & campus info</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&center=true&vCenter=true&width=280&height=45&lines=Faculty+%26+Campus+Info;Responsive+UI+with+React;Bootstrap+%2B+JavaScript&color=F59E0B&background=00000000" />
-        <br><br>
-        <a href="https://sves-college-website.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="140" />
-      </td>
-      <td width="25%" align="center" valign="top">
-        <h3>📋 Attendance Management System</h3>
-        <p><i>Full-stack student attendance system</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&center=true&vCenter=true&width=280&height=45&lines=Attendance+Tracking;Role-Based+Access;CRUD+%2B+MySQL+Integration&color=EF4444&background=00000000" />
-        <br><br>
-        <a href="https://student-attendance-management.infinityfreeapp.com"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=dark" width="140" />
+        <b>Tech Stack</b><br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,supabase,express&theme=dark" />
       </td>
     </tr>
   </table>
